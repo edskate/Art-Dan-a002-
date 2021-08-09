@@ -1,20 +1,20 @@
 # Art-Dan-a002-
-Tabela de Ensaios. 
+Test Table.
 
 
--|    Ensaio:     |  Horás       |
+-| Essay: | Hours |
 -| ----- | ----- |
--|   Treinos      |   08:00         |  
--|    Coreografia | 09:00 ás             |
--| Alongamnento   |   09:45
+-| Trainings | 08:00 |
+-| Choreography | 09:00 as |
+-| Stretching | 09:45
 
-# Tabela- de Ensaio:
+# Test Table:
 
-| Contagem  | Tônus  | Movimento   | 4  | tempos  |
+| Count | Tonus | Movement | 4 | times |
 |---|---|---|---|---|
-| 1,2,3,4,5,6,7,8  :🤸:  |músculos.   | De segundo. | 8  | Tempos.
+| 1,2,3,4,5,6,7,8 :🤸: |muscles. | Second. | 8 | Times.
 
-# Motivação do Dia.
+# Motivation of the Day.
 
 -[x] If life doesn't get easier, try to get stronger.
 - [x] If the walk is difficult, it is because you are on the right path.
