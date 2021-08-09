@@ -16,11 +16,11 @@ Tabela de Ensaios.
 
 # Motivação do Dia.
 
-- [x] Se a vida não ficar mais fácil, trate de ficar mais forte.
-- [x] Se a caminhada está difícil, é porque você está no caminho certo.
-- [x] Toda conquista começa com a decisão de tentar.
-- [x] Insista, persista e nunca desista.
-- [x] Você é mais forte do que imagina. Acredite.
-- [x] Todo esforço tem a sua recompensa.
-
-# obrigado pela atenção .    
+-[x] If life doesn't get easier, try to get stronger.
+- [x] If the walk is difficult, it is because you are on the right path.
+- [x] Every achievement starts with the decision to try.
+- [x] Insist, persist and never give up.
+- [x] You're stronger than you think. Believe it.
+- [x] Every effort has its reward.
+  
+# thanks for listening .
